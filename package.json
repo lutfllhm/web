@@ -1,0 +1,29 @@
+{
+  "name": "iware-company",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "catalog": "node scripts/generate-product-catalog.mjs",
+    "youtube-articles": "node scripts/fetch-youtube-articles.mjs",
+    "dev": "npm run catalog && npm run youtube-articles && vite",
+    "build": "npm run catalog && npm run youtube-articles && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "framer-motion": "^11.18.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.15.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "sharp": "^0.35.2",
+    "tailwindcss": "^4.0.0",
+    "typescript": "~5.7.2",
+    "vite": "^6.0.1"
+  }
+}

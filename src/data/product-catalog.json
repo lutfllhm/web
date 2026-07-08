@@ -1,0 +1,474 @@
+[
+  {
+    "jenis": "thermal printer",
+    "slug": "thermal-printer",
+    "label": "Thermal Printer",
+    "tipes": [],
+    "seriesGroups": [],
+    "filters": []
+  },
+  {
+    "jenis": "barcode label printer",
+    "slug": "barcode-label-printer",
+    "label": "Barcode Label Printer",
+    "tipes": [],
+    "seriesGroups": [],
+    "filters": []
+  },
+  {
+    "jenis": "mobile printer",
+    "slug": "mobile-printer",
+    "label": "Mobile Printer",
+    "tipes": [],
+    "seriesGroups": [],
+    "filters": []
+  },
+  {
+    "jenis": "barcode scanner",
+    "slug": "barcode-scanner",
+    "label": "Barcode Scanner",
+    "tipes": [],
+    "seriesGroups": [],
+    "filters": []
+  },
+  {
+    "jenis": "cash drawer",
+    "slug": "cash-drawer",
+    "label": "Cash Drawer",
+    "tipes": [],
+    "seriesGroups": [],
+    "filters": []
+  },
+  {
+    "jenis": "all in one pos system",
+    "slug": "all-in-one-pos-system",
+    "label": "All In One Pos System",
+    "tipes": [],
+    "seriesGroups": [],
+    "filters": []
+  },
+  {
+    "jenis": "mini pc",
+    "slug": "mini-pc",
+    "label": "Mini Pc",
+    "tipes": [],
+    "seriesGroups": [],
+    "filters": []
+  },
+  {
+    "jenis": "monitor pc",
+    "slug": "monitor-pc",
+    "label": "Monitor Pc",
+    "tipes": [],
+    "seriesGroups": [],
+    "filters": []
+  },
+  {
+    "jenis": "self order kiosk",
+    "slug": "self-order-kiosk",
+    "label": "Self Order Kiosk",
+    "tipes": [],
+    "seriesGroups": [],
+    "filters": []
+  },
+  {
+    "jenis": "tablet",
+    "slug": "tablet",
+    "label": "Tablet",
+    "tipes": [],
+    "seriesGroups": [],
+    "filters": []
+  },
+  {
+    "jenis": "money counter",
+    "slug": "money-counter",
+    "label": "Money Counter",
+    "tipes": [],
+    "seriesGroups": [],
+    "filters": []
+  },
+  {
+    "jenis": "calling system",
+    "slug": "calling-system",
+    "label": "Calling System",
+    "tipes": [],
+    "seriesGroups": [],
+    "filters": []
+  },
+  {
+    "jenis": "walkie talkie & handy talkie",
+    "slug": "walkie-talkie-and-handy-talkie",
+    "label": "Walkie Talkie & Handy Talkie",
+    "tipes": [],
+    "seriesGroups": [],
+    "filters": []
+  },
+  {
+    "jenis": "lainnya",
+    "slug": "lainnya",
+    "label": "Lainnya",
+    "tipes": [
+      {
+        "id": "POS ALL IN ONE/assets",
+        "slug": "pos-all-in-one-assets",
+        "name": "assets",
+        "label": "assets",
+        "title": "POS ALL IN ONE assets",
+        "brand": "Iware",
+        "harga": null,
+        "hargaCoret": null,
+        "series": "assets",
+        "group": "assets",
+        "pathParts": [
+          "assets"
+        ],
+        "thumbnail": "/product/POS%20ALL%20IN%20ONE/assets/bg.png",
+        "images": [
+          "/product/POS%20ALL%20IN%20ONE/assets/bg.png",
+          "/product/POS%20ALL%20IN%20ONE/assets/gmbrbg.png",
+          "/product/POS%20ALL%20IN%20ONE/assets/posats.original-backup.png",
+          "/product/POS%20ALL%20IN%20ONE/assets/posats.png",
+          "/product/POS%20ALL%20IN%20ONE/assets/PXAseries.png"
+        ],
+        "specs": {
+          "model": "assets",
+          "series": "assets",
+          "group": "assets",
+          "kategori": "assets",
+          "jumlahFoto": 5,
+          "merek": "Iware"
+        }
+      },
+      {
+        "id": "POS ALL IN ONE/pos all in one android/dual layar",
+        "slug": "pos-all-in-one-pos-all-in-one-android-dual-layar",
+        "name": "dual layar",
+        "label": "pos all in one android / dual layar",
+        "title": "POS ALL IN ONE dual layar",
+        "brand": "Iware",
+        "harga": null,
+        "hargaCoret": null,
+        "series": "pos all in one android",
+        "group": "pos all in one android",
+        "pathParts": [
+          "pos all in one android",
+          "dual layar"
+        ],
+        "thumbnail": "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20android/dual%20layar/PXA-02D.png",
+        "images": [
+          "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20android/dual%20layar/PXA-02D.png",
+          "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20android/dual%20layar/PXA-P2.png",
+          "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20android/dual%20layar/PXA-38.png"
+        ],
+        "specs": {
+          "model": "dual layar",
+          "series": "pos all in one android",
+          "group": "pos all in one android",
+          "kategori": "pos all in one android › dual layar",
+          "jumlahFoto": 3,
+          "merek": "Iware"
+        }
+      },
+      {
+        "id": "POS ALL IN ONE/pos all in one android/single layar",
+        "slug": "pos-all-in-one-pos-all-in-one-android-single-layar",
+        "name": "single layar",
+        "label": "pos all in one android / single layar",
+        "title": "POS ALL IN ONE single layar",
+        "brand": "Iware",
+        "harga": null,
+        "hargaCoret": null,
+        "series": "pos all in one android",
+        "group": "pos all in one android",
+        "pathParts": [
+          "pos all in one android",
+          "single layar"
+        ],
+        "thumbnail": "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20android/single%20layar/PXA-01S.png",
+        "images": [
+          "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20android/single%20layar/PXA-01S.png",
+          "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20android/single%20layar/X-2.png"
+        ],
+        "specs": {
+          "model": "single layar",
+          "series": "pos all in one android",
+          "group": "pos all in one android",
+          "kategori": "pos all in one android › single layar",
+          "jumlahFoto": 2,
+          "merek": "Iware"
+        }
+      },
+      {
+        "id": "POS ALL IN ONE/pos all in one windows/dual layar",
+        "slug": "pos-all-in-one-pos-all-in-one-windows-dual-layar",
+        "name": "dual layar",
+        "label": "pos all in one windows / dual layar",
+        "title": "POS ALL IN ONE dual layar",
+        "brand": "Iware",
+        "harga": null,
+        "hargaCoret": null,
+        "series": "pos all in one windows",
+        "group": "pos all in one windows",
+        "pathParts": [
+          "pos all in one windows",
+          "dual layar"
+        ],
+        "thumbnail": "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20windows/dual%20layar/WD-X1%20Series.png",
+        "images": [
+          "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20windows/dual%20layar/WD-X1%20Series.png",
+          "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20windows/dual%20layar/ES-R02%20PRO.png",
+          "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20windows/dual%20layar/HB-8DW.png",
+          "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20windows/dual%20layar/BX-95ST.png",
+          "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20windows/dual%20layar/HB-156Dii.png",
+          "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20windows/dual%20layar/X-281.png",
+          "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20windows/dual%20layar/X-293ii.png",
+          "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20windows/dual%20layar/AN-689DT.png"
+        ],
+        "specs": {
+          "model": "dual layar",
+          "series": "pos all in one windows",
+          "group": "pos all in one windows",
+          "kategori": "pos all in one windows › dual layar",
+          "jumlahFoto": 8,
+          "merek": "Iware"
+        }
+      },
+      {
+        "id": "POS ALL IN ONE/pos all in one windows/single layar",
+        "slug": "pos-all-in-one-pos-all-in-one-windows-single-layar",
+        "name": "single layar",
+        "label": "pos all in one windows / single layar",
+        "title": "POS ALL IN ONE single layar",
+        "brand": "Iware",
+        "harga": null,
+        "hargaCoret": null,
+        "series": "pos all in one windows",
+        "group": "pos all in one windows",
+        "pathParts": [
+          "pos all in one windows",
+          "single layar"
+        ],
+        "thumbnail": "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20windows/single%20layar/ES-R01ii.png",
+        "images": [
+          "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20windows/single%20layar/ES-R01ii.png",
+          "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20windows/single%20layar/F1%20Series.png",
+          "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20windows/single%20layar/FL-1M.png",
+          "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20windows/single%20layar/FL-1PRO.png",
+          "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20windows/single%20layar/HB%20series.png",
+          "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20windows/single%20layar/PRIME%20Series.png",
+          "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20windows/single%20layar/SW%20Series%20150-156.png"
+        ],
+        "specs": {
+          "model": "single layar",
+          "series": "pos all in one windows",
+          "group": "pos all in one windows",
+          "kategori": "pos all in one windows › single layar",
+          "jumlahFoto": 7,
+          "merek": "Iware"
+        }
+      }
+    ],
+    "seriesGroups": [
+      {
+        "id": "assets-assets",
+        "label": "assets",
+        "group": "assets",
+        "description": "",
+        "tipes": [
+          {
+            "id": "POS ALL IN ONE/assets",
+            "slug": "pos-all-in-one-assets",
+            "name": "assets",
+            "label": "assets",
+            "title": "POS ALL IN ONE assets",
+            "brand": "Iware",
+            "harga": null,
+            "hargaCoret": null,
+            "series": "assets",
+            "group": "assets",
+            "pathParts": [
+              "assets"
+            ],
+            "thumbnail": "/product/POS%20ALL%20IN%20ONE/assets/bg.png",
+            "images": [
+              "/product/POS%20ALL%20IN%20ONE/assets/bg.png",
+              "/product/POS%20ALL%20IN%20ONE/assets/gmbrbg.png",
+              "/product/POS%20ALL%20IN%20ONE/assets/posats.original-backup.png",
+              "/product/POS%20ALL%20IN%20ONE/assets/posats.png",
+              "/product/POS%20ALL%20IN%20ONE/assets/PXAseries.png"
+            ],
+            "specs": {
+              "model": "assets",
+              "series": "assets",
+              "group": "assets",
+              "kategori": "assets",
+              "jumlahFoto": 5,
+              "merek": "Iware"
+            }
+          }
+        ]
+      },
+      {
+        "id": "pos-all-in-one-android-pos-all-in-one-android",
+        "label": "pos all in one android",
+        "group": "pos all in one android",
+        "description": "",
+        "tipes": [
+          {
+            "id": "POS ALL IN ONE/pos all in one android/dual layar",
+            "slug": "pos-all-in-one-pos-all-in-one-android-dual-layar",
+            "name": "dual layar",
+            "label": "pos all in one android / dual layar",
+            "title": "POS ALL IN ONE dual layar",
+            "brand": "Iware",
+            "harga": null,
+            "hargaCoret": null,
+            "series": "pos all in one android",
+            "group": "pos all in one android",
+            "pathParts": [
+              "pos all in one android",
+              "dual layar"
+            ],
+            "thumbnail": "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20android/dual%20layar/PXA-02D.png",
+            "images": [
+              "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20android/dual%20layar/PXA-02D.png",
+              "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20android/dual%20layar/PXA-P2.png",
+              "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20android/dual%20layar/PXA-38.png"
+            ],
+            "specs": {
+              "model": "dual layar",
+              "series": "pos all in one android",
+              "group": "pos all in one android",
+              "kategori": "pos all in one android › dual layar",
+              "jumlahFoto": 3,
+              "merek": "Iware"
+            }
+          },
+          {
+            "id": "POS ALL IN ONE/pos all in one android/single layar",
+            "slug": "pos-all-in-one-pos-all-in-one-android-single-layar",
+            "name": "single layar",
+            "label": "pos all in one android / single layar",
+            "title": "POS ALL IN ONE single layar",
+            "brand": "Iware",
+            "harga": null,
+            "hargaCoret": null,
+            "series": "pos all in one android",
+            "group": "pos all in one android",
+            "pathParts": [
+              "pos all in one android",
+              "single layar"
+            ],
+            "thumbnail": "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20android/single%20layar/PXA-01S.png",
+            "images": [
+              "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20android/single%20layar/PXA-01S.png",
+              "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20android/single%20layar/X-2.png"
+            ],
+            "specs": {
+              "model": "single layar",
+              "series": "pos all in one android",
+              "group": "pos all in one android",
+              "kategori": "pos all in one android › single layar",
+              "jumlahFoto": 2,
+              "merek": "Iware"
+            }
+          }
+        ]
+      },
+      {
+        "id": "pos-all-in-one-windows-pos-all-in-one-windows",
+        "label": "pos all in one windows",
+        "group": "pos all in one windows",
+        "description": "",
+        "tipes": [
+          {
+            "id": "POS ALL IN ONE/pos all in one windows/dual layar",
+            "slug": "pos-all-in-one-pos-all-in-one-windows-dual-layar",
+            "name": "dual layar",
+            "label": "pos all in one windows / dual layar",
+            "title": "POS ALL IN ONE dual layar",
+            "brand": "Iware",
+            "harga": null,
+            "hargaCoret": null,
+            "series": "pos all in one windows",
+            "group": "pos all in one windows",
+            "pathParts": [
+              "pos all in one windows",
+              "dual layar"
+            ],
+            "thumbnail": "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20windows/dual%20layar/WD-X1%20Series.png",
+            "images": [
+              "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20windows/dual%20layar/WD-X1%20Series.png",
+              "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20windows/dual%20layar/ES-R02%20PRO.png",
+              "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20windows/dual%20layar/HB-8DW.png",
+              "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20windows/dual%20layar/BX-95ST.png",
+              "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20windows/dual%20layar/HB-156Dii.png",
+              "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20windows/dual%20layar/X-281.png",
+              "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20windows/dual%20layar/X-293ii.png",
+              "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20windows/dual%20layar/AN-689DT.png"
+            ],
+            "specs": {
+              "model": "dual layar",
+              "series": "pos all in one windows",
+              "group": "pos all in one windows",
+              "kategori": "pos all in one windows › dual layar",
+              "jumlahFoto": 8,
+              "merek": "Iware"
+            }
+          },
+          {
+            "id": "POS ALL IN ONE/pos all in one windows/single layar",
+            "slug": "pos-all-in-one-pos-all-in-one-windows-single-layar",
+            "name": "single layar",
+            "label": "pos all in one windows / single layar",
+            "title": "POS ALL IN ONE single layar",
+            "brand": "Iware",
+            "harga": null,
+            "hargaCoret": null,
+            "series": "pos all in one windows",
+            "group": "pos all in one windows",
+            "pathParts": [
+              "pos all in one windows",
+              "single layar"
+            ],
+            "thumbnail": "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20windows/single%20layar/ES-R01ii.png",
+            "images": [
+              "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20windows/single%20layar/ES-R01ii.png",
+              "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20windows/single%20layar/F1%20Series.png",
+              "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20windows/single%20layar/FL-1M.png",
+              "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20windows/single%20layar/FL-1PRO.png",
+              "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20windows/single%20layar/HB%20series.png",
+              "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20windows/single%20layar/PRIME%20Series.png",
+              "/product/POS%20ALL%20IN%20ONE/pos%20all%20in%20one%20windows/single%20layar/SW%20Series%20150-156.png"
+            ],
+            "specs": {
+              "model": "single layar",
+              "series": "pos all in one windows",
+              "group": "pos all in one windows",
+              "kategori": "pos all in one windows › single layar",
+              "jumlahFoto": 7,
+              "merek": "Iware"
+            }
+          }
+        ]
+      }
+    ],
+    "filters": [
+      {
+        "id": "assets",
+        "label": "assets",
+        "count": 1
+      },
+      {
+        "id": "pos-all-in-one-android",
+        "label": "pos all in one android",
+        "count": 2
+      },
+      {
+        "id": "pos-all-in-one-windows",
+        "label": "pos all in one windows",
+        "count": 2
+      }
+    ]
+  }
+]

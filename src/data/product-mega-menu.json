@@ -1,0 +1,154 @@
+{
+  "columns": [
+    {
+      "title": "iware Print",
+      "subtitle": "Printer struk, label & mobile",
+      "sections": [
+        {
+          "heading": "THERMAL PRINTER",
+          "links": [
+            {
+              "label": "Thermal Printer",
+              "to": "/produk/thermal-printer"
+            }
+          ]
+        },
+        {
+          "heading": "BARCODE LABEL PRINTER",
+          "links": [
+            {
+              "label": "Barcode Label Printer",
+              "to": "/produk/barcode-label-printer"
+            }
+          ]
+        },
+        {
+          "heading": "MOBILE PRINTER",
+          "links": [
+            {
+              "label": "Mobile Printer",
+              "to": "/produk/mobile-printer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "iware Scan",
+      "subtitle": "Barcode scanner & cash drawer",
+      "sections": [
+        {
+          "heading": "BARCODE SCANNER",
+          "links": [
+            {
+              "label": "Barcode Scanner",
+              "to": "/produk/barcode-scanner"
+            }
+          ]
+        },
+        {
+          "heading": "CASH DRAWER",
+          "links": [
+            {
+              "label": "Cash Drawer",
+              "to": "/produk/cash-drawer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "iware POS",
+      "subtitle": "Kasir, tablet & periferal",
+      "sections": [
+        {
+          "heading": "ALL IN ONE POS SYSTEM",
+          "links": [
+            {
+              "label": "All In One Pos System",
+              "to": "/produk/all-in-one-pos-system"
+            }
+          ]
+        },
+        {
+          "heading": "SELF ORDER KIOSK",
+          "links": [
+            {
+              "label": "Self Order Kiosk",
+              "to": "/produk/self-order-kiosk"
+            }
+          ]
+        },
+        {
+          "heading": "TABLET",
+          "links": [
+            {
+              "label": "Tablet",
+              "to": "/produk/tablet"
+            }
+          ]
+        },
+        {
+          "heading": "MONEY COUNTER",
+          "links": [
+            {
+              "label": "Money Counter",
+              "to": "/produk/money-counter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "iware Connect",
+      "subtitle": "Perangkat & sistem lainnya",
+      "sections": [
+        {
+          "heading": "MINI PC",
+          "links": [
+            {
+              "label": "Mini Pc",
+              "to": "/produk/mini-pc"
+            }
+          ]
+        },
+        {
+          "heading": "MONITOR PC",
+          "links": [
+            {
+              "label": "Monitor Pc",
+              "to": "/produk/monitor-pc"
+            }
+          ]
+        },
+        {
+          "heading": "CALLING SYSTEM",
+          "links": [
+            {
+              "label": "Calling System",
+              "to": "/produk/calling-system"
+            }
+          ]
+        },
+        {
+          "heading": "WALKIE TALKIE & HANDY TALKIE",
+          "links": [
+            {
+              "label": "Walkie Talkie & Handy Talkie",
+              "to": "/produk/walkie-talkie-and-handy-talkie"
+            }
+          ]
+        },
+        {
+          "heading": "LAINNYA",
+          "links": [
+            {
+              "label": "Lainnya",
+              "to": "/produk/lainnya"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
